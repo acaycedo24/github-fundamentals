@@ -20,7 +20,7 @@ Quiero aprender a desarrollar aplicaciones web, mejorar mis conocimientos del te
     email = alejandrocamo@unisabana.edu.co
 ```
 
-Estos datos permiten que Git registre quién realiza cada commit, lo que facilita identificar la autoría y el historial de cambios en el proyecto.
+Estos datos permiten que Git registre quién realiza cada commit, lo que facilita identificar la autoría y el historial de cambios en el proyecto. (COPY PASTE DE LA IA)
 
 ---
 
