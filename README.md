@@ -1,6 +1,6 @@
 # GitHub Fundamentals
 
-#LINK DESPLIEGUE:
+##LINK DESPLIEGUE:
 https://acaycedo24.github.io/github-fundamentals/
 
 ## Nombre
