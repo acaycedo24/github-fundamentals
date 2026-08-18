@@ -8,6 +8,7 @@ Alejandro Caycedo Montero
 
 ## Nombre grupo e integrantes de grupo:
 - CONECTANEGOCIO
+
 Sebastian Franco Umbacia
 Catalina Vega Romero
 Jose Alejandro Melo
