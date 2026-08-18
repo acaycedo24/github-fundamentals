@@ -8,7 +8,7 @@ Alejandro Caycedo Montero
 
 ## Nombre grupo e integrantes de grupo:
 
-- CONECTANEGOCIO - (Nombre grupo)
+CONECTANEGOCIO - (Nombre grupo)
 
 - Sebastian Franco Umbacia
 - Catalina Vega Romero
