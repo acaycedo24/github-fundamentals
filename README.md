@@ -7,11 +7,12 @@ https://acaycedo24.github.io/github-fundamentals/
 Alejandro Caycedo Montero 
 
 ## Nombre grupo e integrantes de grupo:
+
 - CONECTANEGOCIO
 
-Sebastian Franco Umbacia
-Catalina Vega Romero
-Jose Alejandro Melo
+- Sebastian Franco Umbacia
+- Catalina Vega Romero
+- Jose Alejandro Melo
 
 ## Perfil de GitHub
 https://github.com/acaycedo24
