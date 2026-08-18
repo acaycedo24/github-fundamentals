@@ -13,6 +13,7 @@ CONECTANEGOCIO - (Nombre grupo)
 - Sebastian Franco Umbacia
 - Catalina Vega Romero
 - Jose Alejandro Melo
+- Alejandro Caycedo Montero
 
 ## Perfil de GitHub
 https://github.com/acaycedo24
